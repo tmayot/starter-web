@@ -7,3 +7,4 @@ ajout4
 ajout5
 ajout6
 ajout7
+copyright
